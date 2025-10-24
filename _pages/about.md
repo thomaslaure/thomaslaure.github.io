@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
 I am a PhD student at Université Sorbonne Paris Nord, working under the supervision of Micaela Mayero and Flavien Breuvart.
 
 I am interested in logic, type theory, category theory.
