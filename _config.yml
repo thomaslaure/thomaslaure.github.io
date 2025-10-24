@@ -33,8 +33,8 @@ author:
   email            : "laure@lipn.fr" 
 
   # Academic websites
-  academia         : https://arxiv.org/a/laure_t_3.html
-  arxiv            : 
+  academia         : 
+  arxiv            : https://arxiv.org/a/laure_t_3.html
   googlescholar    : "https://scholar.google.com/citations?user=QdTd0C8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
