@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   academia         : 
-  arxiv            : https://arxiv.org/a/laure_t_3.html
+  arxiv            : "https://arxiv.org/a/laure_t_3.html"
   googlescholar    : "https://scholar.google.com/citations?user=QdTd0C8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
