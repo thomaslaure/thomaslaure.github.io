@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Existential and positive games: a comonadic and axiomatic view"
 collection: publications
 category: Preprints
-permalink: /publication/2025-03-01-expos-games
+permalink: /publication/2025-03-03-expos-games
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2025-03-03
 venue: #'Journal 1'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2503.01247'
