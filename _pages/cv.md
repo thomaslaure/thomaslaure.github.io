@@ -9,37 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download the [pdf version](https://thomaslaure.github.io/files/CV.pdf) (in French, updated June 2025).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Université Sorbonne Paris Nord, 2025 - Present.
+* Masters Degree in Computer Science, Ecole Normale Supérieure, Paris, 2024.
+* Bachelor Degree in Computer Science, Ecole Normale Supérieure, Paris, 2021.
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Schedule Types: Graded Types and Dependent Types
+  * LIPN - Université Sorbonne Paris-Nord - Equipe LoCal (ex- LoVe)
+  * Five month research internship
+  * Supervisor: [Flavien Breuvart](https://www.lipn.univ-paris13.fr/~breuvart/?lang=uk)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Towards an indexed semantics for concurrent separation logic
+  * LIPN - Université Sorbonne Paris-Nord - Equipe LoVe
+  * Five month research internship
+  * Supervisor: [Flavien Breuvart](https://www.lipn.univ-paris13.fr/~breuvart/?lang=uk)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Modeling a dependent type theory through sequential algorithms
+  * LMF - Ecole Normale Supérieure Paris-Saclay - Deducteam
+  * FIve month masters internship
+  * Supervisor: [Valentin Blot](https://valentinblot.org/)
+
+* Spring 2022: Relating structure and power : developments on game comonads
+  * University College London, Programming principles, logic and verification group
+  * Four month M1 internship
+  * Supervisor: [Samson Abramsky](https://profiles.ucl.ac.uk/86621-samson-abramsky)
+
+* Summer 2021: Study of a variation logics
+  * LORIA - Université de Lorraine - Equipe K
+  * Two month bachelor intership
+  * Supervisor: [Jean Lieber](https://members.loria.fr/JLieber/cv/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
