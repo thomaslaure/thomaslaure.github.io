@@ -23,7 +23,7 @@ repository               : "thomaslaure/thomaslaure.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Gediminas.jpg"
   name             : "Thomas Laure"
   pronouns         : "he/him" 
   bio              : "PhD student under the supervision of Flavien Breuvart and Micaela Mayero"
