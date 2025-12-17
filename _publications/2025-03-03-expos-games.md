@@ -3,7 +3,7 @@ title: "Existential and positive games: a comonadic and axiomatic view"
 collection: publications
 category: preprints
 permalink: /publication/2025-03-03-expos-games
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is part of a several year project on the categorification of model-comparison games. It specifically aims at studying quantifiers and negation separately. It follows work I took part in during my M1 internship.'
 date: 2025-03-03
 venue: #'Journal 1'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'

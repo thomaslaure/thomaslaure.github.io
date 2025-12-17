@@ -3,6 +3,7 @@ title: "Game comonads for existential and positive equivalence"
 collection: talks
 type: "Seminar"
 permalink: /talks/2025-01-25-game-comonads
+excerpt : 'Team seminar presenting the work I took part in during my M1 internship. '
 venue: "Laboratoire d'Informatique de Paris Nord"
 date: 2025-01-23
 location: "Villetaneuse, France"

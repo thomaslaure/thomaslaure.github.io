@@ -3,7 +3,7 @@ title: "Une logique pour représenter des variations propositionnelles"
 collection: publications
 category: conferences
 permalink: /publication/2023-07-06-variation-logic
-excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper (in French) is (the first step of) a formalisation of a notion of variation in propositional logic. It follows work I did during my bachelor internship.'
 date: 2023-07-06
 venue: "Journées d'intelligence artificielle fondamentale -- plateforme AFIA 2023"
 slidesurl: #'https://academicpages.github.io/files/slides2.pdf'
