@@ -3,11 +3,11 @@ title: "Monades et monades gradées : comment typer les effets des programmes fo
 collection: talks
 type: "Seminar"
 permalink: /talks/2025-12-17-graded-monads
-excerpt : 'Talk given at the student seminar at DIENS about the general ideas of graded monads '
+excerpt : 'Talk given at the student seminar at DIENS about the general ideas of graded monads'
 venue: "Ecole Normale Supérieure - PSL"
 date: 2025-12-17
 location: "Paris, France"
-slidesurl: 'https://thomaslaure.github.io/files/2025-12-17-graded-monads.pdf'
+
 ---
 
 Les langages fonctionnels sont par essence purs : l'évaluation des termes ne produit pas d'effets. Cependant, programmer peut nécessiter des opérations plus riches, comme l'introduction d'effets de bord, qui agissent sur la mémoire de la machine. Une manière d'encapsuler les aspects impurs des programmes est la notion de monade, que l'on présentera sous son jour informatique, et qui est au centre d'un langage comme Haskell.
