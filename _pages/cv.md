@@ -43,6 +43,14 @@ Research experience
   * LORIA - Université de Lorraine - Equipe K
   * Two month bachelor intership
   * Supervisor: [Jean Lieber](https://members.loria.fr/JLieber/cv/)
+
+Events
+======
+
+* 34th EACSL Annual Conference on
+Computer Science Logic (CSL 2026)
+  * Local organising Comitee
+  * [Event Website](https://csl2026.github.io/)
   
 
 Publications
