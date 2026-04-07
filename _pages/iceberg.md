@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "L'autre page"
 permalink: /iceberg/
 author_profile: true
 redirect_from:
