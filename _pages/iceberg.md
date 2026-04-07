@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "L'autre page"
-permalink: /iceberg/
+permalink: /montagnedeglace/
 author_profile: true
 redirect_from:
-  - /easteregg
+  - /oeufenchocolat
 ---
 {% include base_path %}
 
