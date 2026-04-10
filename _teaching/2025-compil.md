@@ -1,7 +1,7 @@
 ---
 title: "Compilation"
 collection: teaching
-type: "Master course"
+type: "Bachelor course / Project supervision"
 permalink: /teaching/2026-compil
 venue: "Université Sorbonne Paris Nord"
 date: 2026-01-27
