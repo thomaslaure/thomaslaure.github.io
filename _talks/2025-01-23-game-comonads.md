@@ -16,4 +16,4 @@ Finally, if we have time, we expose shortly the notion of arboreal categories, t
 
 *Joint work with Samson Abramsky and Luca Reggio.*
 
-This work is available as a [preprint](https://thomaslaure.github.io/publication/2025-03-03-expos-games)
+This work [was published in APAL](https://thomaslaure.github.io/publication/2026-04-09-expos-games)
